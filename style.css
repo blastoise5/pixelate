@@ -309,7 +309,7 @@ html {
   }
 }
 
-/* logo */
+/* more */
 
 .logo{
   margin-top: 3%;
@@ -324,7 +324,7 @@ html {
 
 @media screen and (max-width: 650px) {
   .logo {
-    width: 50%;
+    width: 70%;
   }
 }
 
